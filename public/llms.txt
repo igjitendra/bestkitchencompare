@@ -1,0 +1,25 @@
+# BestKitchenCompare
+
+BestKitchenCompare is a content-commerce website focused on home and kitchen appliances.
+
+Purpose:
+- Help users discover, compare, and research appliances.
+- Publish buying guides, reviews, and comparison content.
+- Recommend products using affiliate links.
+
+Main sections:
+- Homepage: /
+- Categories: /category/{slug}
+- Products: /product/{slug}
+- Brands: /brand/{slug}
+- Compare: /compare
+- Blog: /blog
+- About: /about
+- Disclaimer: /disclaimer
+- Privacy Policy: /privacy-policy
+- Contact: /contact
+
+Policies:
+- Product prices are intentionally not displayed.
+- Recommendation buttons use “Check Latest Price on Amazon”.
+- Affiliate disclosure appears near recommendation areas.
